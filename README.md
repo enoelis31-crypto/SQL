@@ -1,6 +1,12 @@
-#  SQL Portfolio – by Enoelis Viera Ortiz  
+## 🌟 About This Repository  
+Each folder contains:  
+- SQL scripts for database creation and analysis.  
+- Comments explaining each query step-by-step.  
+- Real business-style questions guiding the analysis.  
 
-Hi! I’m Enoelis, a data analyst in training, passionate about turning raw data into clear insights and business decisions.  
-This portfolio is where I share my **SQL projects**, each one built around real-world business questions.  
+Feel free to explore, fork, or reach out — I’m always improving my skills and open to feedback.  
 
-I believe SQL is more than just queries – it’s about **storytelling with data**.  
+---
+
+📬 **Contact**  
+[LinkedIn](https://www.linkedin.com/in/enoelis-viera-ortiz) • [GitHub](https://github.com/enoelis31-crypto)
